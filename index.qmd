@@ -1,26 +1,26 @@
 ---
-title: "Finley Malloc"
+title: "Mare Lopez-Caro"
 about:
   template: trestles
-  image: avatar.jpg
+  image: avatar.jpeg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: mjzcaro.gis@gmail.com"
+    #- icon: mastodon
+    #  href: https://joinmastodon.org
+    #- text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+    # href: https://bsky.app
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
       href: https://x.com
     - icon: github
-      href: https://github.com
+      href: https://github.com/mareGIS
     - icon: linkedin
-      href: https://linkedin.com/
+      href: https://linkedin.com/marelopezcaro
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
       href: https://scholar.google.com
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
+      href: https://orcid.org/0000-0002-6279-5801
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
@@ -28,19 +28,41 @@ about:
     #   text: Github
     #   href: https://github.com
 ---
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I'm a PhD candidate at University of Alcalá. I enjoy spending time playing cello and getting involve in any kind of new activity!
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of Alcalá | Madrid, ES
+PhD in Geographic Information Techonlogies (Remote Sensing) | October 2023 - current
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+University of Alcalá | Madrid, ES
+MSc in Geographic Information Techonlogies | Sept 2022 - Sept 2023
+
+University of Almería | Almería, ES
+BA in Tourism | Sept 2018 - July 2022
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+JAE Intro | Researcher technician | March 2022 - July 2022
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+University of Almería | Researcher technician (Databases) | October 2022 - January 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
